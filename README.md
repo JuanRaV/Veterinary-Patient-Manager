@@ -1,2 +1,2 @@
-# Veterinary-Patient-Manager
+# Veterinary Patient Manager in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 A Veterinary Patient Manager, in which each record is saved in indexedDB. This program contains CRUD operations, which are also reflected in the database.
